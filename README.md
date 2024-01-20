@@ -13,7 +13,7 @@ This is a website which deals with the import and export of goods from India to 
 ![image](https://github.com/subash-ghub/PorGo/assets/104593776/05909bba-3863-4df5-8b9b-b2ebc60e44b8)
 
 # WE DO 
-![image](https://github.com/subash-ghub/PorGo/assets/104593776/a0efb4f1-b1ed-42de-a82c-c7b9ede56cab)
+![WhatsApp Image 2024-01-20 at 20 04 25_cd7eb9e4](https://github.com/subash-ghub/PorGo/assets/104593776/92b49620-8ab1-4c0b-a6f2-d4c9a3f0f540)
 
 # SAMPLE(IMGS)
 ![WhatsApp Image 2024-01-20 at 19 54 47_c1a82507](https://github.com/subash-ghub/PorGo/assets/104593776/0f94f967-ebd9-419f-97ce-8c093907061f)   ![WhatsApp Image 2024-01-20 at 19 54 48_0e05e0ea](https://github.com/subash-ghub/PorGo/assets/104593776/5bb818d5-bb28-443c-a895-e4bd8b6fddb8) 

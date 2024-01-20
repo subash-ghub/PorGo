@@ -1,7 +1,2 @@
-# PorGo
-
-   ![image](https://github.com/subash-ghub/PorGo/assets/104593776/d7ce902c-00eb-40b1-8953-3add33abe15b)
-
-## About
-The term PorGo is derived from the words Port and Cargo(Port + Cargo = PorGo).PorGo is an Ship cargo management system in which all the cargo can be easily transported from one place to other place and it can also be tracked easily.At the initial Stage PorGo has tie-up with major ports in India like Chennai,Mumbai,Cochin,Visakhapatnam and Kolkata,where cargo will be handled and transported all over the world.PorGo has having local connections with logistics through which containers can be collected from the customers.It optimize the cargo handling processes within a port environment. It serves as a comprehensive platform that enables efficient management of cargo operations, from arrival to departure, ensuring seamless coordination and increased productivity.This application offers a range of features and functionalities that facilitate the handling of various types of cargo, including containers, bulk commodities, and breakbulk shipments. It provides real-time visibility into cargo movements, allowing port operators to monitor the status and location of shipments at any given time. Overall, the port cargo management solution enhances the efficiency, visibility, and coordination of cargo handling operations within a port. By leveraging technology and automation, it enables port operators to optimize resource utilization, reduce costs, and deliver a higher level of service to their customers.
-
+# PorGo-website
+This is a website which deals with the import and export of goods from India to other countries with the tracking of order and  solving clients issues.
